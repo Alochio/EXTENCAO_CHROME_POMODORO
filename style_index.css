@@ -1,4 +1,4 @@
-*{
+* {
     font-family: "Roboto", sans-serif;
     background-color: #f1f3f4;
 }
@@ -10,7 +10,7 @@ body {
 
 img {
     float: left;
-    width: 200px; 
+    width: 200px;
     height: auto;
     margin-right: 10px;
 }
@@ -23,7 +23,7 @@ img {
 
 #help img,
 #settings img {
-    width: 20px; 
+    width: 20px;
     height: 20px;
     cursor: pointer;
 }
@@ -39,10 +39,10 @@ img {
     text-align: center;
     font-size: 25px;
     margin-top: 20px;
-    
+
 }
 
-#tempo{
+#tempo {
     background-color: transparent;
 }
 
@@ -62,4 +62,3 @@ a img {
     height: 20px;
     margin: 0 10px;
 }
-
