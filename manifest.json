@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "name": "Pomodoro Method",
+    "description" : "Extenção criada para melhorar o seu foco nos estudos",
+    "version" : "1.0.0",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "./imagens/icon.png"
+    }
+}

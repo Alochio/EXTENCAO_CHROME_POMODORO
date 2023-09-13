@@ -1,0 +1,65 @@
+*{
+    font-family: "Roboto", sans-serif;
+    background-color: #f1f3f4;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    float: left;
+    width: 200px; 
+    height: auto;
+    margin-right: 10px;
+}
+
+#help,
+#settings {
+    float: right;
+    margin: 0 0px;
+}
+
+#help img,
+#settings img {
+    width: 20px; 
+    height: 20px;
+    cursor: pointer;
+}
+
+#popup-container {
+    text-align: center;
+    margin: 20px;
+    width: 320px;
+    height: 40px;
+}
+
+.cronometro {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+
+#tempo{
+    background-color: transparent;
+}
+
+
+.botoes {
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a img {
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+}
+

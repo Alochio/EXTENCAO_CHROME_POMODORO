@@ -1,0 +1,5 @@
+Falta para a conclusão:
+1 - corrigir posição dos botõe
+2 - cronometro não parar quando o popup é minimizado
+3 - criar duas páginas especificas, uma dizendo que é hora de descanso e a outro que é hora de focar
+4 - criar pag de help
